@@ -11,7 +11,7 @@
   "author": "Orlewilson B. Maia",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ip": "^1.1.5",
     "serialport": "^7.1.4"
   }
